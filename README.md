@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
+## Can see
+
+it all works with firebase can be seen on the website https://angular-blog-c3993.firebaseapp.com/
+
+admin page:
+
+login: test@test.com
+
+password: 123456
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
